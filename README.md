@@ -30,4 +30,3 @@ I build production **AI agent workflows, RBAC-hardened APIs, and cloud data pipe
 
 * **LinkedIn:** [linkedin.com/in/prabhs2000](https://www.linkedin.com/in/prabhs2000/)
 * **Email:** sahebsingh2000@gmail.com
-* **Location:** Gurugram, Delhi NCR (Open to Bengaluru, Hyderabad, Remote & UK Skilled Worker New Entrant opportunities)
